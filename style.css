@@ -1,0 +1,24 @@
+.container {
+    background-color: #F1F0E8   ;
+    width: 500px;
+    margin: 20px 0px 0px 100px;
+    padding : 15px 0px 15px 15px;
+    box-shadow: 10px 10px #EADBC8;
+    border-radius: 180px;
+}
+
+.holder {
+    margin: 0px 0px 15px 50px;
+}
+
+.inputdetails ,.inputdate , .inputEmail {
+    margin: 0px 0px 10px 10px;
+    height: 20px;
+    width: 200px;
+}
+
+.buttonContainer {
+    text-align: center;
+    
+}
+
